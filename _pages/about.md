@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**zcr2105@columbia.edu**
+
 ## Research Engineer — Speech, NLP, Multimodal RAG
 I build conversational AI systems that integrate large language models, speech processing, and retrieval to create adaptive, production-ready agents. I am interested in dialogue systems applications in education, especially computer-assisted language learning, enterprise research, and human-centered AI for decision support. I am the founder of **Jouzu**, an anime-stylized character-driven Japanese language learning app centered around Japanese character dialogue systems.
 
