@@ -19,55 +19,50 @@ My work focuses on speech-to-speech conversational systems, expressive multiling
 **Pronunciation:** /ˈrækɔkəs/
 
 <p>You can find me on <a href="https://www.linkedin.com/in/zackrack">LinkedIn</a>, <a href="https://scholar.google.com/citations?user=nLFm9YIAAAAJhl=en">Google Scholar</a>, and <a href="https://github.com/zackrack">GitHub</a>. You can also take a look at my <a href="/files/cv.pdf">CV</a>.</p>
----
+
+## Selected Publications
+
+- **VoxRAG: A Step Toward Transcription-Free RAG Systems in Spoken Question Answering**  
+  MAGMaR @ ACL 2025.  
+  [Paper](https://aclanthology.org/2025.magmar-1.3.pdf)
+
+- **Re:Member: Emotional Question Generation from Personal Memories**  
+  HCI+NLP @ EMNLP 2025.  
+  [Paper](https://aclanthology.org/2025.hcinlp-1.13.pdf)
+
+- **Comparative Evaluation of Expressive Japanese Character Text-to-Speech with VITS and Style-BERT-VITS2**  
+  IEEE UEMCON 2025.
+  [Paper](https://arxiv.org/abs/2505.17320)
+
+- **Evaluating RAG-Fusion with RAGElo: An Automated Elo-Based Framework**  
+  LLM4Eval @ SIGIR 2024.  
+  [Paper](https://ceur-ws.org/Vol-3752/paper6.pdf)
+
+See the full list on the [Publications](/publications/) page.
 
 ## Selected Systems
 
-### 🔹 VoxRAG — Transcription-Free Spoken QA
-A retrieval-augmented generation system for spoken question answering without relying on full transcription pipelines.  
-Presented at ACL Workshop (MAGMaR 2025).
+### 🔹 [Jouzu](https://jouzu.ai) — LLM-Driven Character Learning Platform  
+Anime-stylized Japanese language app powered by conversational agents.  
+Built and deployed production backend APIs integrating LLMs, speech synthesis, ASR, and SQL infrastructure.  
+[GitHub](https://github.com/zackrack/jouzu)  
 
-- Built multimodal retrieval + generation pipeline
-- Designed evaluation framework for speech-grounded QA
-- Focused on efficiency and robustness in real-world audio settings
+### 🔹 VoxRAG — Transcription-Free Spoken Question Answering  
+Multimodal RAG system for speech QA without full ASR pipelines. Presented at MAGMaR @ ACL 2025.  
+Designed retrieval + generation architecture and evaluation framework for speech-grounded LLM systems.  
+[GitHub](https://github.com/zackrack/voxrag)
 
----
+### 🔹 AdaptLingo — Adaptive Speech-to-Speech Dialogue Agent  
+End-to-end conversational system that adjusts responses based on detected user proficiency.  
+Integrated ASR, speech editing, and flow-matching TTS with constrained decoding.  
+[GitHub](https://github.com/zackrack/adaptlingo)
 
-### 🔹 AdaptLingo — Adaptive Speech-to-Speech Chatbot
-An end-to-end conversational agent that adapts to user English proficiency using prosody detection and constrained decoding.
+### 🔹 RAG Product Assistant — Infineon Technologies  
+Enterprise retrieval system for technical documentation.  
+Reduced engineer lookup time from minutes to seconds through optimized retrieval pipelines and LLM integration.  
+*(Code proprietary)*
 
-- Integrated speech recognition, speech editing, and flow-matching TTS
-- Dynamically adjusted generation based on detected learner ability
-- Designed for real-world educational deployment
-
----
-
-### 🔹 Jouzu — LLM-Driven Voiced Character App (Founder)
-A Japanese language learning mobile application centered on character-based conversational AI.
-
-- Designed and deployed backend REST APIs
-- Integrated LLMs, speech synthesis, and speech recognition
-- Built SQL-backed infrastructure with cloud deployment
-- Led cross-functional team (developers, artists, voice actors)
-
----
-
-### 🔹 RAG Product Chatbot — Infineon Technologies
-Developed a retrieval-augmented product assistant to streamline internal engineering workflows.
-
-- Reduced product lookup time from minutes to seconds
-- Designed retrieval pipelines for technical documentation
-- Collaborated with generative AI research teams on evaluation
-
----
-
-## Research & Publications
-
-My research spans speech processing, conversational AI, and retrieval systems, with publications in NLP and information retrieval workshops including ACL and SIGIR venues.
-
-See the **Publications** page for full papers and preprints.
-
----
+See the full technical breakdown on the [Systems](/systems/) page.
 
 ## Technical Stack
 
