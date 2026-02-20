@@ -10,7 +10,7 @@ redirect_from:
 **zcr2105@columbia.edu**
 
 ## Research Engineer — Speech, NLP, Multimodal RAG
-I build conversational AI systems that integrate large language models, speech processing, and retrieval to create adaptive, production-ready agents. I am interested in dialogue systems applications in education, especially computer-assisted language learning, enterprise research, and human-centered AI for decision support. I am the founder of **Jouzu**, an anime-stylized character-driven Japanese language learning app centered around Japanese character dialogue systems.
+I build conversational AI systems that integrate large language models, speech processing, and retrieval to create adaptive, production-ready agents. My interests include dialogue systems for education, enterprise research, and human-centered AI. I am the founder of [Jouzu](https://jouzu.ai), an anime-stylized Japanese language learning app powered by character-driven conversational agents.
 
 I received my M.S. in Computer Science (Thesis Track) at Columbia Engineering, advised by [Julia Hirschberg](https://www.cs.columbia.edu/~julia/). I was also a special graduate research student at the University of Tokyo where I collaborated with [Nobuaki Minematsu](https://www.gavo.t.u-tokyo.ac.jp/~mine/) and [Yuka Akiyama](https://scholar.google.com/citations?user=Ltawg0QAAAAJ&hl=en). I received my B.A. from Swarthmore College where I worked with [John Bundschuh](https://www.swarthmore.edu/profile/john-bundschuh). I also collaborated with [Daniele Struppa](https://www.chapman.edu/our-faculty/daniele-struppa) and [Erik Linstead](https://www.chapman.edu/our-faculty/erik-linstead) at Chapman University.
 
