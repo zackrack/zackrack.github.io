@@ -42,10 +42,10 @@ See the full list on the [Publications](/publications/) page.
 
 ## Selected Systems
 
-### 🔹 [Jouzu](https://jouzu.ai) — LLM-Driven Character Learning Platform  
+### 🔹 Jouzu — LLM-Driven Character Learning Platform  
 Anime-stylized Japanese language app powered by conversational agents.  
 Built and deployed production backend APIs integrating LLMs, speech synthesis, ASR, and SQL infrastructure.  
-[GitHub](https://github.com/zackrack/jouzu)  
+[Website](https://jouzu.ai)  
 
 ### 🔹 VoxRAG — Transcription-Free Spoken Question Answering  
 Multimodal RAG system for speech QA without full ASR pipelines. Presented at MAGMaR @ ACL 2025.  
