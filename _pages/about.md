@@ -59,12 +59,6 @@ See the full list on the [Publications](/publications/) page.
 
 See the full technical breakdown on the [Systems](/systems/) page.
 
-## Technical Stack
-
-**Languages:** Python, C/C++, R, Java, HTML/CSS/JS  
-**Frameworks:** PyTorch, TensorFlow, Scikit-learn, Flask  
-**Areas:** NLP, Speech Processing, Retrieval Systems, LLM Evaluation, Dialogue Systems  
-
 ## Contact
 
 - Email: zcr2105@columbia.edu  
