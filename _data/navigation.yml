@@ -22,12 +22,14 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+  - title: "Systems"
+    url: /systems/
     
   - title: "CV"
     url: /files/cv.pdf
 
-  - title: "Systems"
-    url: /systems/
+
     
   # - title: "CV"
   #   url: /cv-json/
