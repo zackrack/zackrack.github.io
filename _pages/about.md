@@ -42,25 +42,20 @@ See the full list on the [Publications](/publications/) page.
 
 ## Selected Systems
 
-### 🔹 Jouzu — LLM-Driven Character Learning Platform  
-Anime-stylized Japanese language app powered by conversational agents.  
-Built and deployed production backend APIs integrating LLMs, speech synthesis, ASR, and SQL infrastructure.  
-[Website](https://jouzu.ai)  
+- **[Jouzu](https://jouzu.ai)** — LLM-driven character learning platform.  
+  Investigates how stylized, voice-enabled conversational agents influence learner engagement and dialogue-based second-language acquisition.
 
-### 🔹 VoxRAG — Transcription-Free Spoken Question Answering  
-Multimodal RAG system for speech QA without full ASR pipelines. Presented at MAGMaR @ ACL 2025.  
-Designed retrieval + generation architecture and evaluation framework for speech-grounded LLM systems.  
-[GitHub](https://github.com/zackrack/voxrag)
+- **VoxRAG** — Transcription-free spoken question answering (ACL 2025).  
+  Explores retrieval-augmented generation directly over speech representations, reducing reliance on full ASR pipelines for spoken QA.  
+  [GitHub](https://github.com/zackrack/voxrag)
 
-### 🔹 AdaptLingo — Adaptive Speech-to-Speech Dialogue Agent  
-End-to-end conversational system that adjusts responses based on detected user proficiency.  
-Integrated ASR, speech editing, and flow-matching TTS with constrained decoding.  
-[GitHub](https://github.com/zackrack/adaptlingo)
+- **AdaptLingo** — Adaptive speech-to-speech dialogue agent.  
+  Studies proficiency-aware conversational generation by integrating prosody detection, constrained decoding, and end-to-end speech modeling.  
+  [GitHub](https://github.com/zackrack/adaptlingo)
 
-### 🔹 RAG Product Assistant — Infineon Technologies  
-Enterprise retrieval system for technical documentation.  
-Reduced engineer lookup time from minutes to seconds through optimized retrieval pipelines and LLM integration.  
-*(Code proprietary)*
+- **RAG Product Assistant (Infineon)** — Enterprise retrieval system.  
+  Examines how retrieval-augmented LLM systems can improve technical knowledge access and decision efficiency in real-world engineering workflows.  
+  *(Code proprietary)*
 
 See the full technical breakdown on the [Systems](/systems/) page.
 
@@ -69,8 +64,6 @@ See the full technical breakdown on the [Systems](/systems/) page.
 **Languages:** Python, C/C++, R, Java, HTML/CSS/JS  
 **Frameworks:** PyTorch, TensorFlow, Scikit-learn, Flask  
 **Areas:** NLP, Speech Processing, Retrieval Systems, LLM Evaluation, Dialogue Systems  
-
----
 
 ## Contact
 
