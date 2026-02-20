@@ -18,7 +18,7 @@ My work focuses on speech-to-speech conversational systems, expressive multiling
 
 **Pronunciation:** /ˈrækɔkəs/
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/zackrack), [Google Scholar](https://scholar.google.com/citations?user=nLFm9YIAAAAJhl=en), and [GitHub](https://github.com/zackrack). You can also take a look at my [CV](/files/cv.pdf).
+<p>You can find me on <a href="https://www.linkedin.com/in/zackrack">LinkedIn</a>, <a href="https://scholar.google.com/citations?user=nLFm9YIAAAAJhl=en">Google Scholar</a>, and <a href="https://github.com/zackrack">GitHub</a>. You can also take a look at my <a href="/files/cv.pdf">CV</a>.</p>
 ---
 
 ## Selected Systems
