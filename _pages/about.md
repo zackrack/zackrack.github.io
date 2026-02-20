@@ -8,17 +8,15 @@ redirect_from:
 ---
 
 ## Research Engineer — Speech, NLP, Multimodal RAG
+I build conversational AI systems that integrate large language models, speech processing, and retrieval to create adaptive, production-ready agents. I am interested in dialogue systems applications in education, especially computer-assisted language learning, enterprise research, and human-centered AI for decision support. I am the founder of **Jouzu**, an anime-stylized character-driven Japanese language learning app centered around Japanese character dialogue systems.
 
-I build conversational AI systems that integrate large language models, speech processing, and retrieval to create adaptive, production-ready agents.
+I received my M.S. in Computer Science (Thesis Track) at [Columbia Engineering](https://www.engineering.columbia.edu/), advised by [Prof. Julia Hirschberg](https://www.cs.columbia.edu/~julia/). I was also a special graduate research student at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/) where I collaborated with [Nobuaki Minematsu](https://www.gavo.t.u-tokyo.ac.jp/~mine/) and [Yuka Akiyama](https://scholar.google.com/citations?user=Ltawg0QAAAAJ&hl=en). I received my B.A. from [Swarthmore College](https://www.swarthmore.edu/) where I worked with [John Bundschuh](https://www.swarthmore.edu/profile/john-bundschuh). I was also fortunate to collaborate with [Daniele Struppa](https://www.chapman.edu/our-faculty/daniele-struppa) and [Erik Linstead](https://www.chapman.edu/our-faculty/erik-linstead) at [Chapman University](https://www.chapman.edu/).
 
-I am currently completing my M.S. in Computer Science (Thesis Track) at Columbia Engineering, advised by Prof. Julia Hirschberg. My work focuses on:
+My work focuses on speech-to-speech conversational systems, expressive multilingual text-to-speech, and multimodal retrieval and generation for adaptive, affective dialogue agents.
 
-- Transcription-free retrieval-augmented generation (RAG)
-- Speech-to-speech conversational systems
-- Expressive multilingual text-to-speech
-- Adaptive dialogue agents
-- Multimodal retrieval and generation
+**Pronunciation:** /ˈrækɔkəs/
 
+You can find me on [LinkedIn](https://www.linkedin.com/in/zackrack), [Google Scholar](https://scholar.google.com/citations?user=nLFm9YIAAAAJhl=en), and [GitHub](https://github.com/zackrack). You can also take a look at my [CV](/files/cv.pdf).
 ---
 
 ## Selected Systems
