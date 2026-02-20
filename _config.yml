@@ -55,14 +55,14 @@ author:
 
 # Publication categories (more RE/ML practical)
 publication_category:
-  journal:
-    title: "Journal Articles"
   conference:
     title: "Conference & Workshop Papers"
-  preprint:
-    title: "Preprints / Under Review"
+  journal:
+    title: "Journal Articles"
   abstract:
     title: "Extended Abstracts"
+  preprint:
+    title: "Preprints"
 
 # Comments (disable)
 comments:
