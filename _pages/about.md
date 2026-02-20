@@ -31,7 +31,7 @@ My work focuses on speech-to-speech conversational systems, expressive multiling
   [Paper](https://aclanthology.org/2025.hcinlp-1.13.pdf)
 
 - **Comparative Evaluation of Expressive Japanese Character Text-to-Speech with VITS and Style-BERT-VITS2**  
-  IEEE UEMCON 2025.
+  IEEE UEMCON 2025.  
   [Paper](https://arxiv.org/pdf/2505.17320)
 
 - **Evaluating RAG-Fusion with RAGElo: An Automated Elo-Based Framework**  
