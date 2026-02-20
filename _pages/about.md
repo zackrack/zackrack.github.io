@@ -16,7 +16,7 @@ I received my M.S. in Computer Science (Thesis Track) at Columbia Engineering, a
 
 My work focuses on speech-to-speech conversational systems, expressive multilingual text-to-speech, and multimodal retrieval and generation for adaptive, affective dialogue agents.
 
-**Pronunciation:** /ˈrækɔkəs/
+**Pronunciation:** /rəˈkɔkəs/
 
 <p>You can find me on <a href="https://www.linkedin.com/in/zackrack">LinkedIn</a>, <a href="https://scholar.google.com/citations?user=nLFm9YIAAAAJhl=en">Google Scholar</a>, and <a href="https://github.com/zackrack">GitHub</a>. You can also take a look at my <a href="/files/cv.pdf">CV</a>.</p>
 
