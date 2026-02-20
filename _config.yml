@@ -24,7 +24,7 @@ talkmap_link             : false
 
 # Site Author (sidebar)
 author:
-  avatar           : "profile.png"
+  avatar           : "profile2.png"
   name             : "Zackary Rackauckas"
   pronouns         :
   bio              : "GenAI research engineer (NLP + speech). I build adaptive conversational agents, multimodal RAG, and voice-enabled learning systems."
