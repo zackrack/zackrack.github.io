@@ -5,8 +5,6 @@ permalink: /systems/
 author_profile: true
 ---
 
-# Major Research & Production Systems
-
 ## Jouzu — LLM-Driven Character Learning Platform (Founder)
 **Website:** [jouzu.ai](https://jouzu.ai)
 
@@ -77,8 +75,6 @@ Comparative evaluation framework for expressive multilingual TTS models.
 
 ---
 
-# Academic & Lab Systems
-
 ## Jouzu Engagement Analysis System
 Built data collection and analysis pipeline for studying learner-agent interaction outcomes.
 
@@ -96,13 +92,3 @@ Research prototypes exploring:
 - Adaptive conversational scaffolding
 
 ---
-
-# Research Themes Across Systems
-
-Across these projects, I focus on:
-
-- Speech-integrated LLM systems
-- Retrieval-augmented generation and evaluation
-- Adaptive dialogue agents
-- Human-centered conversational AI
-- Real-world deployment of research systems
