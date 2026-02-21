@@ -43,7 +43,7 @@ See the full list on the [Publications](/publications/) page.
 ## Selected Systems
 
 - **Jouzu** — LLM-driven character learning platform.  
-  Investigates how stylized, voice-enabled conversational agents influence learner engagement and dialogue-based second-language acquisition.
+  Investigates how stylized, voice-enabled conversational agents influence learner engagement and dialogue-based second-language acquisition.  
   [Website](https://jouzu.ai)
 
 - **VoxRAG** — Transcription-free spoken question answering (ACL 2025).  
