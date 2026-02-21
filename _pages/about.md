@@ -42,8 +42,9 @@ See the full list on the [Publications](/publications/) page.
 
 ## Selected Systems
 
-- **[Jouzu](https://jouzu.ai)** — LLM-driven character learning platform.  
+- **Jouzu** — LLM-driven character learning platform.  
   Investigates how stylized, voice-enabled conversational agents influence learner engagement and dialogue-based second-language acquisition.
+  [Website](https://jouzu.ai)
 
 - **VoxRAG** — Transcription-free spoken question answering (ACL 2025).  
   Explores retrieval-augmented generation directly over speech representations, reducing reliance on full ASR pipelines for spoken QA.  
@@ -61,6 +62,6 @@ See the full technical breakdown on the [Systems](/systems/) page.
 
 ## Contact
 
-- Email: zcr2105@columbia.edu  
-- Google Scholar: https://scholar.google.com/citations?user=nLFm9YIAAAAJhl=en  
-- LinkedIn: https://linkedin.com/in/zackrack  
+- Email: [zcr2105@columbia.edu](mailto:zcr2105@columbia.edu)  
+- Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=nLFm9YIAAAAJhl=en)  
+- LinkedIn: [LinkedIn](https://linkedin.com/in/zackrack)
