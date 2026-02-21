@@ -3,11 +3,6 @@ layout: single
 title: "Systems"
 permalink: /systems/
 author_profile: true
----
-
-This page documents research and production systems I’ve built across speech processing, conversational AI, and retrieval-augmented generation. Unlike the homepage, this page is comprehensive.
-
----
 
 # Major Research & Production Systems
 
@@ -59,17 +54,14 @@ Enterprise retrieval system for technical documentation.
 
 ---
 
-# Additional Research Systems
+## Re:Member — Emotional Question Generation System
+**Publication:** HCI+NLP @ EMNLP 2025
 
-## RAGElo — Automated Evaluation Framework for RAG
-**GitHub:** [zackrack/ragelo](https://github.com/zackrack/ragelo)  
-**Publication:** LLM4Eval @ SIGIR 2024
+Dialogue system that generates emotionally-aware questions from personal memories.
 
-Elo-based ranking framework for evaluating retrieval-augmented generation systems.
-
-- Implemented automated pairwise comparison pipeline
-- Designed ranking methodology for LLM outputs
-- Applied to evaluate RAG-Fusion variants
+- Designed LLM-based generation framework
+- Investigated affect-aware prompting
+- Evaluated question diversity and emotional alignment
 
 ---
 
@@ -81,17 +73,6 @@ Comparative evaluation framework for expressive multilingual TTS models.
 - Benchmarked VITS and Style-BERT-VITS2
 - Designed human evaluation study
 - Built analysis pipeline for speech quality metrics
-
----
-
-## Re:Member — Emotional Question Generation System
-**Publication:** HCI+NLP @ EMNLP 2025
-
-Dialogue system that generates emotionally-aware questions from personal memories.
-
-- Designed LLM-based generation framework
-- Investigated affect-aware prompting
-- Evaluated question diversity and emotional alignment
 
 ---
 
