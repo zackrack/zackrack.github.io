@@ -12,7 +12,7 @@ This page documents research and production systems I’ve built across speech p
 # Major Research & Production Systems
 
 ## Jouzu — LLM-Driven Character Learning Platform (Founder)
-**Website:** https://jouzu.ai
+**Website:** [jouzu.ai](https://jouzu.ai)
 
 A production Japanese learning application centered on stylized conversational agents.
 
@@ -26,7 +26,7 @@ Research focus: engagement, adaptive dialogue, long-term interaction.
 ---
 
 ## VoxRAG — Transcription-Free Spoken Question Answering
-**GitHub:** https://github.com/zackrack/voxrag  
+**GitHub:** [zackrack/voxrag](https://github.com/zackrack/voxrag)  
 **Publication:** MAGMaR @ ACL 2025
 
 Explores retrieval-augmented generation directly over speech representations rather than relying on full ASR transcripts.
@@ -38,7 +38,7 @@ Explores retrieval-augmented generation directly over speech representations rat
 ---
 
 ## AdaptLingo — Adaptive Speech-to-Speech Dialogue Agent
-**GitHub:** https://github.com/zackrack/adaptlingo
+**GitHub:** [zackrack/adaptlingo](https://github.com/zackrack/adaptlingo)
 
 End-to-end conversational system that adapts responses to user English proficiency.
 
@@ -62,7 +62,7 @@ Enterprise retrieval system for technical documentation.
 # Additional Research Systems
 
 ## RAGElo — Automated Evaluation Framework for RAG
-**GitHub:** https://github.com/zackrack/ragelo  
+**GitHub:** [zackrack/ragelo](https://github.com/zackrack/ragelo)  
 **Publication:** LLM4Eval @ SIGIR 2024
 
 Elo-based ranking framework for evaluating retrieval-augmented generation systems.
