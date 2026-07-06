@@ -9,8 +9,8 @@ redirect_from:
 
 **zcr2105@columbia.edu**
 
-## Research Engineer — Speech, NLP, Multimodal RAG
-I build conversational AI systems that integrate large language models, speech processing, and retrieval to create adaptive, production-ready agents. My interests include dialogue systems for education, enterprise research, and human-centered AI. I am the founder of [Jouzu](https://jouzu.ai), an anime-stylized Japanese language learning app powered by character-driven conversational agents.
+## NLP + Speech Researcher — Converstional Agents for Learning
+I build adaptive educational systems that combine large language models, ASR/TTS, retrieval, and user-centered interface design, with a focus on dialogue systems for language and literacy development. I am currently a research associate at UC Irvine working with [Mark Warschauer](https://markwarschauer.com/) and a software engineer at Harvard GSE working with [Ying Xu](https://ying-xu.com/), where I resarch and engineer AI systems for childrens' speech, phoneme, and pronunciation feedback. I also created (Jouzu)[htps://jouzu.ai), a research-driven Japanese learning platform built around voiced and stylized conversational agents.
 
 I received my M.S. in Computer Science (Thesis Track) at Columbia Engineering, advised by [Julia Hirschberg](https://www.cs.columbia.edu/~julia/). I was also a special graduate research student at the University of Tokyo where I collaborated with [Nobuaki Minematsu](https://www.gavo.t.u-tokyo.ac.jp/~mine/) and [Yuka Akiyama](https://scholar.google.com/citations?user=Ltawg0QAAAAJ&hl=en). I received my B.A. from Swarthmore College where I worked with [John Bundschuh](https://www.swarthmore.edu/profile/john-bundschuh). I also collaborated with [Daniele Struppa](https://www.chapman.edu/our-faculty/daniele-struppa) and [Erik Linstead](https://www.chapman.edu/our-faculty/erik-linstead) at Chapman University.
 
