@@ -14,8 +14,6 @@ My research focuses on speech-first AI systems for language learning. I create a
 
 I received my M.S. in Computer Science (Thesis Track) at Columbia Engineering, advised by [Julia Hirschberg](https://www.cs.columbia.edu/~julia/). I was also a special graduate research student at the University of Tokyo where I collaborated with [Nobuaki Minematsu](https://www.gavo.t.u-tokyo.ac.jp/~mine/) and [Yuka Akiyama](https://scholar.google.com/citations?user=Ltawg0QAAAAJ&hl=en). I received my B.A. from Swarthmore College where I worked with [John Bundschuh](https://www.swarthmore.edu/profile/john-bundschuh). I also collaborated with [Daniele Struppa](https://www.chapman.edu/our-faculty/daniele-struppa) and [Erik Linstead](https://www.chapman.edu/our-faculty/erik-linstead) at Chapman University.
 
-My work focuses on speech-to-speech conversational systems, expressive multilingual text-to-speech, and multimodal retrieval and generation for adaptive, affective dialogue agents.
-
 **Pronunciation:** /rəˈkɔkəs/
 
 <p>You can find me on <a href="https://www.linkedin.com/in/zackrack">LinkedIn</a>, <a href="https://scholar.google.com/citations?user=nLFm9YIAAAAJhl=en">Google Scholar</a>, and <a href="https://github.com/zackrack">GitHub</a>. You can also take a look at my <a href="/files/cv.pdf">CV</a>.</p>
