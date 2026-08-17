@@ -322,3 +322,34 @@
     }
   }
 }
+
+/* Announcements */
+
+.sidebar__announcements {
+  clear: both;
+  width: 100%;
+  margin-top: 1rem;
+  padding: 0.75rem;
+  border: 1px solid var(--global-border-color);
+  border-left: 4px solid var(--global-link-color);
+  border-radius: $border-radius;
+  background: var(--global-toc-bg-color);
+
+  h3 {
+    margin: 0 0 0.5rem;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1.1rem;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+    white-space: normal;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

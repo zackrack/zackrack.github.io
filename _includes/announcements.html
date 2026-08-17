@@ -1,0 +1,17 @@
+{% if site.data.announcements %}
+  <section class="sidebar__announcements" aria-labelledby="sidebar-announcements-title">
+    <h3 id="sidebar-announcements-title">Announcements</h3>
+    <ul>
+      {% for announcement in site.data.announcements %}
+        <li>
+          {% if announcement.date %}<strong>{{ announcement.date }}:</strong>{% endif %}
+          {% if announcement.url %}
+            <a href="{{ announcement.url | relative_url }}">{{ announcement.text }}</a>
+          {% else %}
+            {{ announcement.text }}
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}

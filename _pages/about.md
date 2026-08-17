@@ -2,6 +2,7 @@
 permalink: /
 title: "Zackary Rackauckas"
 author_profile: true
+show_announcements: true
 redirect_from:
   - /about/
   - /about.html
@@ -9,22 +10,14 @@ redirect_from:
 
 **zcr2105@columbia.edu**
 
-## NLP + Speech Researcher — Converstional Agents for Learning
-My research focuses on speech-first AI systems for language learning. I create adaptive agents that combine ASR, expressive TTS, dialogue modeling, retrieval, and user-centered interaction design. I am especially interested in how spoken interfaces can support language acquisition, pronunciation feedback, and learner engagement by making linguistic variation, affect, register, and feedback audible in interaction. I am currently a research associate at UC Irvine working with [Dr. Mark Warschauer](https://markwarschauer.com/) and a software engineer at Harvard GSE working with [Ying Xu](https://ying-xu.com/), where I develop child-facing AI systems for speech, phoneme, and pronunciation feedback. I also created [Jouzu](https://jouzu.ai), a Japanese learning platform built around voiced conversational agents, expressive character speech, and in-context learner scaffolding.
+## NLP + Speech Researcher — Conversational Agents for Learning
+My research focuses on speech-first AI systems for language learning. I create adaptive agents that combine ASR, expressive TTS, dialogue modeling, retrieval, and user-centered interaction design. I am especially interested in how spoken interfaces can support language acquisition, pronunciation feedback, and learner engagement by making linguistic variation, affect, register, and feedback audible in interaction. I am currently a research associate at UC Irvine working with [Mark Warschauer](https://markwarschauer.com/) and a software engineer at Harvard GSE working with [Ying Xu](https://ying-xu.com/), where I develop child-facing AI systems for speech, phoneme, and pronunciation feedback. I also created [Jouzu](https://jouzu.ai), a Japanese learning platform built around voiced conversational agents, expressive character speech, and in-context learner scaffolding.
 
 I received my M.S. in Computer Science (Thesis Track) at Columbia Engineering, advised by [Julia Hirschberg](https://www.cs.columbia.edu/~julia/). I was also a special graduate research student at the University of Tokyo where I collaborated with [Nobuaki Minematsu](https://www.gavo.t.u-tokyo.ac.jp/~mine/) and [Yuka Akiyama](https://scholar.google.com/citations?user=Ltawg0QAAAAJ&hl=en). I received my B.A. from Swarthmore College where I worked with [John Bundschuh](https://www.swarthmore.edu/profile/john-bundschuh). I also collaborated with [Daniele Struppa](https://www.chapman.edu/our-faculty/daniele-struppa) and [Erik Linstead](https://www.chapman.edu/our-faculty/erik-linstead) at Chapman University.
 
 **Pronunciation:** /rəˈkɔkəs/
 
 <p>You can find me on <a href="https://www.linkedin.com/in/zackrack">LinkedIn</a>, <a href="https://scholar.google.com/citations?user=nLFm9YIAAAAJhl=en">Google Scholar</a>, and <a href="https://github.com/zackrack">GitHub</a>. You can also take a look at my <a href="/files/cv.pdf">CV</a>.</p>
-
-**Announcement**<br>
-Two papers accepted to INTERSPEECH Show & Tell.
-{: .notice--info}
-
-**Announcement — June 2026**<br>
-One paper accepted to BEA 2026: [A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges](/publication/2026-automatedsurvey).
-{: .notice--info}
 
 ## Selected Publications
 
