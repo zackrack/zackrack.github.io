@@ -18,6 +18,14 @@ I received my M.S. in Computer Science (Thesis Track) at Columbia Engineering, a
 
 <p>You can find me on <a href="https://www.linkedin.com/in/zackrack">LinkedIn</a>, <a href="https://scholar.google.com/citations?user=nLFm9YIAAAAJhl=en">Google Scholar</a>, and <a href="https://github.com/zackrack">GitHub</a>. You can also take a look at my <a href="/files/cv.pdf">CV</a>.</p>
 
+**Announcement**<br>
+Two papers accepted to INTERSPEECH Show & Tell.
+{: .notice--info}
+
+**Announcement — June 2026**<br>
+One paper accepted to BEA 2026: [A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges](/publication/2026-automatedsurvey).
+{: .notice--info}
+
 ## Selected Publications
 
 - **VoxRAG: A Step Toward Transcription-Free RAG Systems in Spoken Question Answering**  
