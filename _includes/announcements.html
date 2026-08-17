@@ -4,7 +4,7 @@
     <ul>
       {% for announcement in site.data.announcements %}
         <li>
-          {% if announcement.date %}<strong>{{ announcement.date }}:</strong>{% endif %}
+          <span aria-hidden="true">🎉</span>
           {% if announcement.url %}
             <a href="{{ announcement.url | relative_url }}">{{ announcement.text }}</a>
           {% else %}
