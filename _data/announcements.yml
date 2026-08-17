@@ -1,4 +1,6 @@
 - text: "Two papers accepted to Interspeech 2026 Show & Tell."
 
-- text: "One paper accepted to BEA 2026."
+- prefix: "One "
+  link_text: "paper"
+  suffix: " accepted to BEA 2026."
   url: "/publication/2026-automatedsurvey"

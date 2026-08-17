@@ -5,8 +5,8 @@
       {% for announcement in site.data.announcements %}
         <li>
           <span aria-hidden="true">🎉</span>
-          {% if announcement.url %}
-            <a href="{{ announcement.url | relative_url }}">{{ announcement.text }}</a>
+          {% if announcement.url and announcement.link_text %}
+            {{ announcement.prefix }}<a href="{{ announcement.url | relative_url }}">{{ announcement.link_text }}</a>{{ announcement.suffix }}
           {% else %}
             {{ announcement.text }}
           {% endif %}
