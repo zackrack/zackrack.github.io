@@ -1,4 +1,7 @@
-- text: 'Two papers accepted to Interspeech 2026 Show &amp; Tell: <a href="https://www.isca-archive.org/interspeech_2026/rackauckas26b_interspeech.html">Jouzu</a> and <a href="https://www.isca-archive.org/interspeech_2026/rackauckas26_interspeech.html">AdaptLingo</a>.'
+- prefix: "Two "
+  link_text: "papers"
+  suffix: " accepted to Interspeech 2026 Show &amp; Tell."
+  url: "/publications/"
 
 - prefix: "One "
   link_text: "paper"
