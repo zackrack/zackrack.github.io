@@ -1,5 +1,5 @@
 # =========================
-# Zackary Rackauckas — Academic Pages config (Research Engineer oriented)
+# Zackary Rackauckas — Academic Pages config (Speech + NLP researcher)
 # Replace every REPLACE_ME value.
 # =========================
 
@@ -9,7 +9,7 @@ site_theme               : "contrast"  # crisp, modern, RE-friendly: default/air
 title                    : "Zackary Rackauckas"
 title_separator          : "-"
 name                     : &name "Zackary Rackauckas"
-description              : &description "Research engineer focused on speech, NLP, and multimodal RAG systems for conversational AI."
+description              : &description "Speech + NLP researcher focused on speech and language technologies for language learners and children's speech."
 url                      : "https://zackrack.github.io/"   # e.g. "https://zackrack.github.io"
 baseurl                  : ""                               # keep "" for user sites
 repository               : "zackrack/zackrack.github.io" # e.g. "zackrack/zackrack.github.io"
@@ -27,11 +27,11 @@ author:
   avatar           : "profile2.png"
   name             : "Zackary Rackauckas"
   pronouns         :
-  bio              : "GenAI research engineer (NLP + speech). I build adaptive conversational agents, multimodal RAG, and voice-enabled learning systems."
+  bio              : "Speech + NLP researcher. I study speech and language technologies for language learners and children's speech."
   location         : "Corona del Mar, California, USA"
   employer         : "Harvard University"
   uri              :
-  email            : "zcr2105@columbia.edu"             # from CV :contentReference[oaicite:2]{index=2}
+  email            : "zackary_rackauckas@g.harvard.edu"             # from CV :contentReference[oaicite:2]{index=2}
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=nLFm9YIAAAAJhl=en"  # from CV :contentReference[oaicite:3]{index=3}
