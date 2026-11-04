@@ -11,9 +11,9 @@ redirect_from:
 **zackary_rackauckas@g.harvard.edu**
 
 ## Speech + NLP Researcher
-My research focuses on speech and language technologies for language learners and children's speech. I create adaptive agents that combine ASR, expressive TTS, dialogue modeling, retrieval, and user-centered interaction design. I am especially interested in how spoken interfaces can support language acquisition, pronunciation feedback, and learner engagement by making linguistic variation, affect, register, and feedback audible in interaction. I am currently a Predoctoral Research Assistant at Harvard University, working with [Ying Xu](https://ying-xu.com/) on child-facing AI systems for speech, phoneme, and pronunciation feedback. Previously, I was a research associate at UC Irvine, working with [Mark Warschauer](https://markwarschauer.com/). I also created [Jouzu](https://jouzu.ai), a Japanese learning platform built around voiced conversational agents, expressive character speech, and in-context learner scaffolding.
+My research focuses on speech and language technologies for language learners and children's speech. I create adaptive agents that combine ASR, expressive TTS, dialogue modeling, retrieval, and user-centered interaction design. I am especially interested in how spoken interfaces can support language acquisition, pronunciation feedback, and learner engagement by making linguistic variation, affect, register, and feedback audible in interaction. I am currently a Predoctoral Research Assistant at Harvard University, working with [Ying Xu](https://ying-xu.com/) on child-facing AI systems for speech, phoneme, and pronunciation feedback. I am also a research associate at UC Irvine, working with [Mark Warschauer](https://markwarschauer.com/). I also created [Jouzu](https://jouzu.ai), a Japanese learning platform built around voiced conversational agents, expressive character speech, and in-context learner scaffolding.
 
-I received my M.S. in Computer Science (Thesis Track) at Columbia Engineering, advised by [Julia Hirschberg](https://www.cs.columbia.edu/~julia/). I was also a special graduate research student at the University of Tokyo where I collaborated with [Nobuaki Minematsu](https://www.gavo.t.u-tokyo.ac.jp/~mine/) and [Yuka Akiyama](https://scholar.google.com/citations?user=Ltawg0QAAAAJ&hl=en). I received my B.A. from Swarthmore College where I worked with [John Bundschuh](https://www.swarthmore.edu/profile/john-bundschuh). I also collaborated with [Daniele Struppa](https://www.chapman.edu/our-faculty/daniele-struppa) and [Erik Linstead](https://www.chapman.edu/our-faculty/erik-linstead) at Chapman University.
+I received my M.S. in Computer Science (Thesis Track) at Columbia Engineering, advised by [Julia Hirschberg](https://www.cs.columbia.edu/~julia/). I was also a visiting research intern at the University of Tokyo, where I collaborated with [Nobuaki Minematsu](https://www.gavo.t.u-tokyo.ac.jp/~mine/) and [Yuka Akiyama](https://scholar.google.com/citations?user=Ltawg0QAAAAJ&hl=en). I received my B.A. from Swarthmore College where I worked with [John Bundschuh](https://www.swarthmore.edu/profile/john-bundschuh). I also collaborated with [Daniele Struppa](https://www.chapman.edu/our-faculty/daniele-struppa) and [Erik Linstead](https://www.chapman.edu/our-faculty/erik-linstead) at Chapman University.
 
 **Pronunciation:** /rəˈkɔkəs/
 
@@ -31,7 +31,7 @@ I received my M.S. in Computer Science (Thesis Track) at Columbia Engineering, a
 
 - **Comparative Evaluation of Expressive Japanese Character Text-to-Speech with VITS and Style-BERT-VITS2**  
   IEEE UEMCON 2025.  
-  [Paper](https://arxiv.org/pdf/2505.17320)
+  [Paper](https://ieeexplore.ieee.org/document/11267532)
 
 - **Evaluating RAG-Fusion with RAGElo: An Automated Elo-Based Framework**  
   LLM4Eval @ SIGIR 2024.  

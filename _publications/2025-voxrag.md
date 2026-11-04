@@ -3,7 +3,7 @@ title: "VoxRAG: A Step Toward Transcription-Free RAG Systems in Spoken Question 
 collection: publications
 category: conference
 permalink: /publication/2025-voxrag
-date: 2025-01-01
+date: 2025-08-01
 venue: "MAGMaR @ ACL 2025"
 paperurl: "https://aclanthology.org/2025.magmar-1.3.pdf"
 citation: "Rackauckas, Z., & Hirschberg, J. (2025). \"VoxRAG: A Step Toward Transcription-Free RAG Systems in Spoken Question Answering.\" MAGMaR @ ACL 2025."
